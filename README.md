@@ -1,2 +1,2 @@
-# PbI6A
+# My first steps
 Repository for EHU Java Studies.
